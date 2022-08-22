@@ -1,0 +1,29 @@
+body{
+    background-color:cadetblue;
+}
+#cookies{
+    background-color:cadetblue;
+}
+
+#brownies{
+    background-color: darkorchid;
+}
+
+#cupcakes{
+    background-color: deeppink;
+}
+
+#macaroons{
+    background-color: lightgreen;
+}
+p{
+    font-family: monospace;
+}
+
+h4{
+    font-family: fantasy;
+}
+
+h3{
+    font-family: initial;
+}
